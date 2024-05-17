@@ -1,0 +1,13 @@
+{
+    "ownerNumber": ["6285640575421@s.whatsapp.net"],
+    "ownerName": ["Ndaa"],
+    "botName": "NdaaBotz-Md",
+    "sessionName": "rtwone-md",
+    "pathimg": "./media/Chitanda.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+      "prem": 35,
+      "user": 15
+    }
+  }
